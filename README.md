@@ -16,12 +16,6 @@
 
 ---
 
-##  Preview
-
-![Landing Page Preview](assets/preview.jpg)
-
----
-
 ##  Tech Stack
 
 - **HTML5**
