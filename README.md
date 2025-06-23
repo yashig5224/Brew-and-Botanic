@@ -30,15 +30,14 @@
 - *Designed with minimalism and botanical warmth in mind.*
   
 ---
-
 ##  Screenshots
-![s7](https://github.com/user-attachments/assets/85663c4b-ad1a-46dc-8d5b-5ce90c9dc655)
-![s6](https://github.com/user-attachments/assets/cfa23ab5-238b-4712-b5f8-5e63cbd5c876)
-![s5](https://github.com/user-attachments/assets/7bde4391-6b5d-4ee4-bd9b-bcb44544beb9)
-![s4](https://github.com/user-attachments/assets/ce428893-047e-46d7-a0f6-911b851452d9)
-![s3](https://github.com/user-attachments/assets/0ee6270c-0b47-4d55-b2ef-752c440e463b)
-![s2](https://github.com/user-attachments/assets/78a76548-4aba-4b9c-b6c2-e386c868279d)
-![s1](https://github.com/user-attachments/assets/0de54cbc-9158-47d4-a246-8c83ca0ae873)
+![s1](https://github.com/user-attachments/assets/17d2715b-7789-40a6-9182-934819040279)
+![s2](https://github.com/user-attachments/assets/f8419a09-32a0-4fcd-b21f-849f35ff2574)
+![s3](https://github.com/user-attachments/assets/35f35bbb-2377-4d83-8dde-f71dd7e3f5eb)
+![s4](https://github.com/user-attachments/assets/08381c91-38d3-4983-b8e3-fd8568e6f8ee)
+![s5](https://github.com/user-attachments/assets/be3cd895-ce26-4f9e-a979-e66ded4c3a3f)
+![s6](https://github.com/user-attachments/assets/c4d4bf51-75ef-4a17-b9ce-bfde5efe6913)
+![s7](https://github.com/user-attachments/assets/c7d69c1a-99a9-47c5-acf9-7bf19c038a64)
 
 ##  How to Run
 
